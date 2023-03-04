@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c694ed33;
+}
+.container {
+    background: #03ffce82;
+    border-radius: 25px;
+    width: 50%;
+    padding: 1em;
+    max-width: 350px;
+    
+}
